@@ -1,6 +1,6 @@
 /*
 https://cplusplus.com/forum/general/138359/
-の設計を参考にした
+の設計を参考
 */
 
 #pragma once
